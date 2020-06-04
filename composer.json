@@ -1,5 +1,5 @@
 {
-  "name": "php-mqtt/laravel-client",
+  "name": "shineit/mqtt-laravel-client",
   "description": "An MQTT client library for Laravel.",
   "type": "library",
   "keywords": [
@@ -9,7 +9,7 @@
     "subscribe",
     "laravel"
   ],
-  "homepage": "https://github.com/php-mqtt/laravel-client",
+  "homepage": "https://github.com/shineit/laravel-client",
   "license": "MIT",
   "authors": [
     {
